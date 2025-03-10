@@ -1,6 +1,5 @@
 # Script de PowerShell para la configuración del dominio, usuarios, recursos compartidos, 
-# directivas, DHCP y WSUS según los requisitos especificados
-
+# directivas, DHCP y WSUS.
 # ------------------------------------------------------------------------------
 # 1. Configuración del Controlador de Dominio Active Directory
 # ------------------------------------------------------------------------------
